@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/scanno/__init__.py
+src/scanno/scanno.py
+src/scanno.egg-info/PKG-INFO
+src/scanno.egg-info/SOURCES.txt
+src/scanno.egg-info/dependency_links.txt
+src/scanno.egg-info/top_level.txt

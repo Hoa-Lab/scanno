@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: scanno
+Version: 0.0.2
+Summary: scRNASeq analysis
+Home-page: https://github.com/Hoa-Lab/scanno
+Author: Shoujun Gu
+Author-email: shoujun.gu@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Hoa-Lab/scanno/issues
+Description: # SCanno Tutorial
+        
+        ### 1. Requirements:
+        - Python (v3.8.2)
+        - Scanpy (v1.81)
+        - Pandas (v1.3.4)
+        - Numpy (v1.20)
+        - Scikit_learn (v1.0.1)
+        - Tensorflow (v2.6.0)
+        
+        
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
